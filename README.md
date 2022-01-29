@@ -24,7 +24,7 @@ A Entertainment Platform to Watch and Download Movies and Shows
 * Movie Details such as Rating, Year, Language, Description, Starrings, etc...
 * Language Specific Movies
 * Other user's reviews 
-* Comments Adding Functionality
+* Add your Comments and Reviews
 * Support 7+ movie languages
 * Chat with Admin
 * Movie Requests
