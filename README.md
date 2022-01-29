@@ -12,9 +12,9 @@ A Entertainment Platform to Watch and Download Movies and Shows
 
 ## Download
 
-[<img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png"
+[<img src="https://toppng.com/uploads/preview/images-buttons-download-red-download-button-11562896412yilsysnxsr.png"
      alt="Get it on MovieX"
-     height="100">](https://android.izzysoft.de/repo/apk/com.shadow.blackhole)
+     height="100">](https://www.moviexapp.ga)
 
 
 ## Features
