@@ -12,9 +12,9 @@ A Entertainment Platform to Watch and Download Movies and Shows
 
 ## Download
 
-[<img src="https://toppng.com/uploads/preview/images-buttons-download-red-download-button-11562896412yilsysnxsr.png"
+[<img src="https://www.pngfind.com/pngs/m/692-6929509_button-transparent-background-download-png-png-download.png"
      alt="Get it on MovieX"
-     height="100">](https://www.moviexapp.ga)
+     height="400">](https://www.moviexapp.ga)
 
 
 ## Features
