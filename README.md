@@ -19,14 +19,14 @@ A Entertainment Platform to Watch and Download Movies and Shows
 
 ## Features
 
-* Best Video Streaming Quality 
+* Best Video/Movie Streaming Quality 
 * Movie Downloading Functionality
 * Movie Details such as Rating, Year, Language, Description, Starrings, etc...
 * Language Specific Movies
 * Other user's reviews 
 * Comments Adding Functionality
 * Support 7+ movie languages
-* Chat with Admin Functionality
+* Chat with Admin
 * Movie Requests
 * Dark Mode
 * No Subscription
