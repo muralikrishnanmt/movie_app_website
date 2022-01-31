@@ -25,7 +25,6 @@ A Entertainment Platform to Watch and Download Movies and Shows
 * Language Specific Movies
 * Other user's reviews 
 * Add your Comments and Reviews
-* Support 7+ movie languages
 * Chat with Admin
 * Movie Requests
 * Dark Mode
