@@ -28,6 +28,7 @@ A Entertainment Platform to Watch and Download Movies and Shows
 * Support 7+ movie languages
 * Chat with Admin
 * Movie Requests
+* Dark Mode
 * No Subscription
 
 and much more...
