@@ -33,6 +33,8 @@ A Entertainment Platform to Watch and Download Movies and Shows
 * Add your Comments and Reviews
 * Support 7+ movie languages
 * Chat with Admin
+* Upcoming Movies
+* Notification when a new movie is released.
 * Movie Requests
 * Dark Mode
 * No Subscription
