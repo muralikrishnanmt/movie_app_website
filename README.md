@@ -15,6 +15,12 @@ A Entertainment Platform to Watch and Download Movies and Shows
 [<img src="https://www.pngkit.com/png/full/100-1009816_png-images-buttons-download-red-download-button-png.png"
      alt="Get it on MovieX"
      height="100">](http://www.moviexapp.cf)
+     
+## Visit Website
+
+[<img src="https://www.printinlondon.co.uk/blog/wp-content/uploads/2017/07/visit-website-button.png"
+     alt="Visit Now"
+     height="100">](http://www.moviexapp.cf)     
 
 
 ## Features
