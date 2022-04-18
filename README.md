@@ -14,13 +14,7 @@ A Entertainment Platform to Watch and Download Movies and Shows
 
 [<img src="https://www.pngkit.com/png/full/100-1009816_png-images-buttons-download-red-download-button-png.png"
      alt="Get it on MovieX"
-     height="100">](http://www.moviexapp.cf)
-     
-## Visit Website
-
-[<img src="https://www.printinlondon.co.uk/blog/wp-content/uploads/2017/07/visit-website-button.png"
-     alt="Visit Now"
-     height="100">](http://www.moviexapp.cf)     
+     height="100">](http://www.moviexapp.ga)
 
 
 ## Features
@@ -31,9 +25,8 @@ A Entertainment Platform to Watch and Download Movies and Shows
 * Language Specific Movies
 * Other user's reviews 
 * Add your Comments and Reviews
+* Support 7+ movie languages
 * Chat with Admin
-* Upcoming Movies
-* Notification when a new movie is released.
 * Movie Requests
 * Dark Mode
 * No Subscription

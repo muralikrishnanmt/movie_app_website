@@ -53342,7 +53342,7 @@ if(r)q.push(B.q6)
 else q.push(B.rD)
 return A.MI(q)}}
 A.Nz.prototype={
-$0(){B.a0.YS(window,"https://easyupload.io/wnrhrn","Download")},
+$0(){B.a0.YS(window,"https://easyupload.io/qgmd15","Download")},
 $S:0}
 A.Cg.prototype={
 O(a,b){return A.a9r(A.Re(B.zR,null,B.ai),null,!0)}}
