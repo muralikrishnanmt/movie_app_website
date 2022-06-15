@@ -54578,7 +54578,7 @@ if(r)q.push(B.ql)
 else q.push(B.rP)
 return A.Nj(q)}}
 A.Oc.prototype={
-$0(){B.a_.Zt(window,"https://easyupload.io/bsmddb","Download")},
+$0(){B.a_.Zt(window,"https://easyupload.io/ujsazi","Download")},
 $S:0}
 A.fA.prototype={
 N(a,b){var s=null
@@ -58195,7 +58195,7 @@ B.CQ=new A.nQ(1,null)
 B.CR=new A.tO(null)
 B.xI=new A.aQ(12,12,12,12)
 B.I4=new A.n(!0,B.j,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.J3=new A.vj("v 1.0.7",null,B.I4,B.bG,null,null)
+B.J3=new A.vj("v2.0.0",null,B.I4,B.bG,null,null)
 B.ql=new A.cu(B.xI,B.J3,null)
 B.ad=new A.tU(0,"fill")
 B.I=new A.tU(1,"stroke")
