@@ -54578,7 +54578,7 @@ if(r)q.push(B.ql)
 else q.push(B.rP)
 return A.Nj(q)}}
 A.Oc.prototype={
-$0(){B.a_.Zt(window,"https://easyupload.io/ujsazi","Download")},
+$0(){B.a_.Zt(window,"https://easyupload.io/0e8nmv","Download")},
 $S:0}
 A.fA.prototype={
 N(a,b){var s=null
