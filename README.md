@@ -23,9 +23,11 @@ A Entertainment Platform to Watch and Download Movies and Shows
 * Movie Downloading Functionality
 * Movie Details such as Rating, Year, Language, Description, Starrings, etc...
 * Language Specific Movies
+* Notification when new movie is released
 * Other user's reviews 
 * Add your Comments and Reviews
-* Support 7+ movie languages
+* Web Series and TV Series
+* Adverise Your Ads on MovieX
 * Chat with Admin
 * Movie Requests
 * Dark Mode
