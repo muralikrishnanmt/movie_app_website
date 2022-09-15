@@ -36,14 +36,14 @@ Check it yourself :)
 
 ## Screenshots
 <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/1.jpeg?raw=true" width="22%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/2.jpeg?raw=true" width="22%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/8.png?raw=true" width="22%"> <img
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/9.jpg?raw=true" width="22%"> <img 
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/9.jpg?raw=true" width="21%"> <img 
 src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/10.jpg?raw=true" width="22%"> <img 
 src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/11.jpg?raw=true" width="22%"> <img
 src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/12.jpg?raw=true" width="22%"> <img
 src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/13.jpg?raw=true" width="22%"> <img
 src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/3.jpeg?raw=true" width="22%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/4.jpeg?raw=true" width="22%"> <img
 src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/6.jpeg?raw=true" width="22%"> <img 
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/7.jpeg?raw=true" width="22%"> <img                                                                                                                             src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/mobile.png?raw=true" width="32%"> <img
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/7.jpeg?raw=true" height="12%"> <img                                                                                                                             src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/mobile.png?raw=true" height="12%"> <img
                                                                                                                              src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/5.jpeg?raw=true" width="22%">
 
 
