@@ -30,7 +30,6 @@ A Entertainment Platform to Watch and Download Movies and Shows
 * Advertise your ads as Banner and Popup ads
 * Chat with Admin
 * Movie Requests
-* Dark Mode
 * No Paid Subscription Required
 
 and much more...
