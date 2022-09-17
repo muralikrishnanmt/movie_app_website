@@ -4,7 +4,7 @@
 
 # MovieX
 
-A Entertainment Platform to Watch and Download Movies and Shows
+An Entertainment Platform to Watch and Download Movies and Shows
 
 
 ### Dont forget to :star: the repo
