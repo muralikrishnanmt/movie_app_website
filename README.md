@@ -4,7 +4,7 @@
 
 # MovieX
 
-An Entertainment Platform to Watch and Download Movies and Shows
+A Entertainment Platform to Watch and Download Movies and Shows
 
 
 ### Dont forget to :star: the repo
@@ -14,7 +14,7 @@ An Entertainment Platform to Watch and Download Movies and Shows
 
 [<img src="https://www.pngkit.com/png/full/100-1009816_png-images-buttons-download-red-download-button-png.png"
      alt="Get it on MovieX"
-     height="100">](http://www.moviexapp.cf)
+     height="100">](http://www.moviexapp.ga)
 
 
 ## Features
@@ -23,30 +23,23 @@ An Entertainment Platform to Watch and Download Movies and Shows
 * Movie Downloading Functionality
 * Movie Details such as Rating, Year, Language, Description, Starrings, etc...
 * Language Specific Movies
-* Series with seasons and episodes
 * Other user's reviews 
 * Add your Comments and Reviews
-* 7+ language movies
-* Advertise your ads as Banner and Popup ads
+* Support 7+ movie languages
 * Chat with Admin
 * Movie Requests
-* No Paid Subscription Required
+* Dark Mode
+* No Subscription
 
 and much more...
 Check it yourself :)
 
 ## Screenshots
-<img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/1.jpeg?raw=true" width="22%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/2.jpeg?raw=true" width="22%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/8.png?raw=true" width="22%"> <img
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/9.jpg?raw=true" width="21%"> <img 
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/10.jpg?raw=true" width="22%"> <img 
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/11.jpg?raw=true" width="22%"> <img
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/12.jpg?raw=true" width="22%"> <img
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/13.jpg?raw=true" width="22%"> <img
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/3.jpeg?raw=true" width="22%"> <img
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/5.jpeg?raw=true" width="22%"> <img
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/4.jpeg?raw=true" width="22%"> <img
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/6.jpeg?raw=true" width="22%"> <img 
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/7.jpeg?raw=true" height="12%"> <img                                                                                                                             src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/mobile.png?raw=true" height="12%">
+<img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/1.jpeg?raw=true" width="32%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/2.jpeg?raw=true" width="32%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/8.png?raw=true" width="32%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/3.jpeg?raw=true" width="32%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/4.jpeg?raw=true" width="32%"> <img
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/6.jpeg?raw=true" width="32%"> <img 
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/7.jpeg?raw=true" width="32%"> <img                                                                                                                             src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/mobile.png?raw=true" width="32%"> <img
+                                                                                                                             src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/5.jpeg?raw=true" width="32%">
+
 
 ## Facing any Issue?
 
