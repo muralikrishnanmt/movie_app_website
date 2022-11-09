@@ -56471,11 +56471,7 @@ if(r)q.push(B.qZ)
 else q.push(B.uc)
 return A.z6(q,B.aQ)}}
 A.Pv.prototype={
-<<<<<<< HEAD
-$0(){B.jK.Y1(window,"https://easyupload.io/qkh2i1","Download")},
-=======
-$0(){B.jK.Y1(window,"https://easyupload.io/pchgvf","Download")},
->>>>>>> 755691e70ca6e2fab097ef7b5d83cfd0b0addf4e
+$0(){B.jK.Y1(window,"https://easyupload.io/2gfata","Download")},
 $S:0}
 A.dH.prototype={
 K(a){var s=null
@@ -60243,7 +60239,7 @@ B.Ei=new A.nD(1,null)
 B.Ej=new A.te(null)
 B.zm=new A.aB(12,12,12,12)
 B.J6=new A.p(!0,B.i,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Kq=new A.uI("v2.0.3",null,B.J6,B.cD,null,null)
+B.Kq=new A.uI("v2.0.4",null,B.J6,B.cD,null,null)
 B.qZ=new A.cA(B.zm,B.Kq,null)
 B.ak=new A.tk(0,"fill")
 B.G=new A.tk(1,"stroke")
