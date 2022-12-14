@@ -14,15 +14,19 @@ A Entertainment Platform to Watch and Download Movies and Shows
 
 [<img src="https://www.pngkit.com/png/full/100-1009816_png-images-buttons-download-red-download-button-png.png"
      alt="Get it on MovieX"
-     height="100">](http://www.moviexapp.ga)
+     height="100">](http://www.moviexapp.cf)
 
 
 ## Features
 
 * Best Video/Movie Streaming Quality 
 * Movie Downloading Functionality
+* Latest and Old Movies and Series
+* Notifications when new movie is released
+* Upcoming Movie Details
 * Movie Details such as Rating, Year, Language, Description, Starrings, etc...
 * Language Specific Movies
+* Advertise your ads and Improve your business
 * Other user's reviews 
 * Add your Comments and Reviews
 * Support 7+ movie languages
@@ -35,10 +39,19 @@ and much more...
 Check it yourself :)
 
 ## Screenshots
-<img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/1.jpeg?raw=true" width="32%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/2.jpeg?raw=true" width="32%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/8.png?raw=true" width="32%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/3.jpeg?raw=true" width="32%"> <img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/4.jpeg?raw=true" width="32%"> <img
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/6.jpeg?raw=true" width="32%"> <img 
-src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/7.jpeg?raw=true" width="32%"> <img                                                                                                                             src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/mobile.png?raw=true" width="32%"> <img
-                                                                                                                             src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/5.jpeg?raw=true" width="32%">
+<img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/1.jpeg?raw=true" width="22%"><img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/2.jpeg?raw=true" width="22%"><img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/8.png?raw=true" width="21%"><img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/3.jpeg?raw=true" width="22%"><img src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/4.jpeg?raw=true" width="22%"><img
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/6.jpeg?raw=true" width="22%"><img 
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/9.jpg?raw=true" width="20%"><img
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/10.jpg?raw=true" width="20%"><img
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/5.jpeg?raw=true" width="24%"><img
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/11.jpg?raw=true" width="22%"><img
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/13.jpg?raw=true" width="22%"><img 
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/12.jpg?raw=true" width="22%"><img
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/14.jpg?raw=true" width="22%"><img
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/15.jpg?raw=true" width="22%"><img
+  src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/mobile.png?raw=true" width="52%"><img
+src="https://github.com/muralikrishnanmt/movie_app_website/blob/main/assets/assets/images/7.jpeg?raw=true" width="42%">                   
+
 
 
 ## Facing any Issue?
