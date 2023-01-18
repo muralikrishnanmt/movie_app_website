@@ -56473,7 +56473,7 @@ return A.z6(q,B.aQ)}}
 A.Pv.prototype={
 $0(){var s=0,r=A.a0(t.H)
 var $async$$0=A.a1(function(a,b){if(a===1)return A.Y(b,r)
-while(true)switch(s){case 0:B.jK.Y1(window,"https://easyupload.io/g1ebo0","Download")
+while(true)switch(s){case 0:B.jK.Y1(window,"https://drive.google.com/file/d/1NMNJevMM7ogIBx1dqCG0S4pAgtQ9PREZ/view","Download")
 return A.Z(null,r)}})
 return A.a_($async$$0,r)},
 $S:28}
