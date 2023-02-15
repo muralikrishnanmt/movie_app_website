@@ -59206,7 +59206,7 @@ return A.zr(q,B.aU)}}
 A.QZ.prototype={
 $0(){var s=0,r=A.a2(t.H)
 var $async$$0=A.a3(function(a,b){if(a===1)return A.a_(b,r)
-while(true)switch(s){case 0:B.jQ.a_u(window,"https://drive.google.com/file/d/1VKI-Tqg1G4yCNitZROVtYMkxPGEsrbel/view","Download")
+while(true)switch(s){case 0:B.jQ.a_u(window,"https://drive.google.com/file/d/1G1r8gy9Of-hN5kbok0llUqJcicRAMLM2/view","Download")
 return A.a0(null,r)}})
 return A.a1($async$$0,r)},
 $S:23}
