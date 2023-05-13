@@ -59206,7 +59206,7 @@ return A.zr(q,B.aU)}}
 A.QZ.prototype={
 $0(){var s=0,r=A.a2(t.H)
 var $async$$0=A.a3(function(a,b){if(a===1)return A.a_(b,r)
-while(true)switch(s){case 0:B.jQ.a_u(window,"https://drive.google.com/file/d/1TSyeH54J0JcWPPj3jn26QamOhPHEsqeg/view","Download")
+while(true)switch(s){case 0:B.jQ.a_u(window,"https://drive.google.com/file/d/1c34jcc3cd1vGS6sXajWes_ldhMYHiZk1/view","Download")
 return A.a0(null,r)}})
 return A.a1($async$$0,r)},
 $S:23}
@@ -62998,7 +62998,7 @@ B.Dr=new A.nG(1,null)
 B.Ds=new A.tk(null)
 B.yb=new A.b0(12,12,12,12)
 B.It=new A.q(!0,B.i,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.JN=new A.uT("v2.1.1",null,B.It,B.cM,null,null)
+B.JN=new A.uT("v2.1.2",null,B.It,B.cM,null,null)
 B.r4=new A.cC(B.yb,B.JN,null)
 B.ah=new A.tq(0,"fill")
 B.K=new A.tq(1,"stroke")
