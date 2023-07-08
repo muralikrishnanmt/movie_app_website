@@ -14,7 +14,7 @@ A Entertainment Platform to Watch and Download Movies and Shows
 
 [<img src="https://www.pngkit.com/png/full/100-1009816_png-images-buttons-download-red-download-button-png.png"
      alt="Get it on MovieX"
-     height="100">](http://www.moviexapp.ga)
+     height="100">](http://www.moviexapp.cf)
 
 
 ## Features
